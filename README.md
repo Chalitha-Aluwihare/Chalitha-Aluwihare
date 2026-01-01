@@ -1,16 +1,24 @@
-## Hi there 👋
+## Chalitha Aluwihare
+**Aspiring Cybersecurity Engineer**  
+**BICT (Hons) Undergraduate**
+**Uva Wellassa University of Sri Lanka**  
 
-<!--
-**Chalitha-Aluwihare/Chalitha-Aluwihare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Journey & Certifications
+I have completed industry-recognized certifications such as:  
+- ISC2 Certified in Cybersecurity (CC) – Completed
+- Google Cybersecurity Professional Certificate – Coursera
+- Cisco Introduction to Cybersecurity
+- Cisco Networking Fundamentals
+- Introduction to Python for Cybersecurity – Coursera
+- DevOps – University of Moratuwa (In Progress)
 
-Here are some ideas to get you started:
+## Projects & Skills
+I have practical exposure to tools such as:  
+- **Microsoft Sentinel**, **Metasploit**, **Wireshark**, **Kali Linux**  
+- **Basic Python scripting for cybersecurity**  
+- Exploring **AI for SIEM log analysis**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/chalitha-aluwihare-856781219) | [Portfolio](#) | [Resume Download](#)
