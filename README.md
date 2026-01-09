@@ -10,7 +10,7 @@ I have completed industry-recognized certifications such as:
 - Cisco Introduction to Cybersecurity
 - Cisco Networking Fundamentals
 - Introduction to Python for Cybersecurity – Coursera
-- DevOps – University of Moratuwa (In Progress)
+- CyberOps – University of Moratuwa (In Progress)
 
 ## Projects & Skills
 I have practical exposure to tools such as:  
