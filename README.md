@@ -21,4 +21,4 @@ I have practical exposure to tools such as:
 
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/chalitha-aluwihare-856781219) | [Portfolio](#) | [Resume Download](#)
+[LinkedIn](https://www.linkedin.com/in/chalitha-aluwihare-856781219) | [Portfolio](https://www.chalithaaluwihare.dev) | [Resume Download](#)
